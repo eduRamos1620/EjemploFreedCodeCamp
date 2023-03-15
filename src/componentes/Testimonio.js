@@ -15,3 +15,5 @@ function Testimonio(){
         </div>
     );
 }
+
+export default Testimonio;
